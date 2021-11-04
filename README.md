@@ -1,5 +1,5 @@
 # Hi there, I'm Davide 👋
-I'm full stack software developer from Italy. I currently work for [domoticalabs](https://www.domoticalabs.com)
+I'm full stack software developer from Italy. I currently work for [domoticalabs](https://www.domoticalabs.com) and I'm an [Ember.js](https://emberjs.com/) and a [Django](https://www.djangoproject.com/) fan.
 
 ## My Links:
 [My blog](https://blog.davideferrero.com/)
