@@ -1,5 +1,5 @@
 # Hi there, I'm Davide 👋
-I am full stack software developer [@domoticalabs](https://www.domoticalabs.com)
+I'm full stack software developer from Italy. I currently work [@domoticalabs](https://www.domoticalabs.com)
 
 ## My Links:
 [My blog](https://blog.davideferrero.com/)
